@@ -2,7 +2,7 @@ READ ME
 
 Hello,
 
-When I was making my project, I was using Android Studio. And for running my project, I highly recommend you to open it through Android Studio as well. As this is a mobile development course, you should open it through android emulator. 
+When I was making my project, I was using Android Studio. And for running my project, I highly recommend you to open it through Android Studio as well. As this is a mobile development course project, you should open it through android emulator. 
 
 How to open my project through emulator in android studio:
 
