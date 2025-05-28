@@ -9,7 +9,7 @@ The app features authentication, support for both ios and android, and shared ch
 
 <p align="center">
   <img src="MainPage.png" width="20%" />
-  <img src="ChatView.png" width="20%" />
+  <img src="СhatView.png" width="20%" />
   <img src="ChatsPage.png" width="20%" />
   <img src="RegistrationPage.png" width="20%" />
   <img src="Hamburger.png" width="20%" />
